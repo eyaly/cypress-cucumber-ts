@@ -13,3 +13,4 @@ cypress/screenshots/
 .gitlab-ci.yml
 .npmrc
 *.gif
+/node_modules/

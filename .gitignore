@@ -3,3 +3,4 @@ artifacts/
 sauce-app-payload*
 cypress/videos/
 .DS_Store
+yarn.lock
